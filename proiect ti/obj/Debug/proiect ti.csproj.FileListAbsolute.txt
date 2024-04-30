@@ -1,0 +1,95 @@
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\obj\Debug\proiect ti.csproj.AssemblyReference.cache
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\obj\Debug\proiect ti.csproj.CoreCompileInputs.cache
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\proiect ti.dll.config
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\proiect ti.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\proiect ti.pdb
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\csc.exe
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\csc.exe.config
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\csc.rsp
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\csi.exe
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\csi.exe.config
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\csi.rsp
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.AppContext.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Console.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.IO.Compression.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Net.Http.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.ValueTuple.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\vbc.exe
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\vbc.exe.config
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\vbc.rsp
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\VBCSCompiler.exe
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Antlr3.Runtime.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Newtonsoft.Json.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Web.Optimization.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\WebGrease.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Web.Optimization.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Newtonsoft.Json.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Antlr3.Runtime.pdb
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\obj\Debug\proiect ti.csproj.CopyComplete
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\obj\Debug\proiect ti.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\obj\Debug\proiect ti.pdb
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Oracle.ManagedDataAccess.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Buffers.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Formats.Asn1.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Memory.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Numerics.Vectors.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Text.Encodings.Web.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Text.Json.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.ValueTuple.dll
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Buffers.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Formats.Asn1.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Memory.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Numerics.Vectors.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Text.Encodings.Web.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Text.Json.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ifmfl\source\repos\proiect ti\proiect ti\bin\System.ValueTuple.xml
